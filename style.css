@@ -1,0 +1,43 @@
+* {
+    font-family: Calibri;
+}
+.g {
+    background: #bfbfbf;
+}
+h1 {
+    font-size: 500%;
+    line-height: 0;
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+h2 {
+    font-size: 400%;
+    line-height: 0;
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+h3 {
+    font-size: 300%;
+    line-height: 0;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+h4 {
+    font-size: 300%;
+    line-height: 0;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+p {
+    font-size: 150%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+li {
+    font-size: 150%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+table {
+    font-style: italic;
+}
